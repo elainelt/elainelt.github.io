@@ -1,0 +1,28 @@
+
+h1{
+    font-size: 5em;
+}
+
+#propic {
+    height: 400px;
+    border: solid;
+    padding: 20px 20px 90px 20px;
+    margin: 50px;
+    /* px, 
+    em, rem,
+    %,
+    vh, vw */
+}
+
+body{
+    color: burlywood;
+}
+
+a {
+    color: brown;
+    text-decoration: none;
+}
+
+.social-icon {
+    height: 50px;
+}
