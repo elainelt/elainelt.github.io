@@ -14,6 +14,10 @@ h1{
     vh, vw */
 }
 
+.social-icon {
+    height: 50px;
+}
+
 body{
     color: burlywood;
 }
@@ -23,6 +27,3 @@ a {
     text-decoration: none;
 }
 
-.social-icon {
-    height: 50px;
-}
