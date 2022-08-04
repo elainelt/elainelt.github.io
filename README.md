@@ -3,5 +3,5 @@
 
 ✨ pronouns: she/her/hers  
 🎓 education: uci c/o 2025  
-👩🏻‍💻 major: undeclared/computer science  
+👩🏻‍💻 major: computer science  
 
